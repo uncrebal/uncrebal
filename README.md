@@ -19,7 +19,7 @@ Proxmox-Server aufgebaut, auf dem ich ausprobiere, was wir im Unterricht lernen,
 - Netzwerk: Subnetting, Routing, NAT, DHCP, DNS, OPNsense, VPN, Wireshark, VLANs in Packet Tracer
 - Windows: Windows Server mit Active Directory und Gruppenrichtlinien, NTFS- und Freigaberechte
 - Linux: Debian und Ubuntu, SSH, Firewall mit UFW
-- Virtualisierung: Proxmox mit VMs und Containern
+- Virtualisierung: Proxmox mit VMs, Containern und Vorlagen zum Klonen
 - Datenbanken: SQL, PostgreSQL, MariaDB, ER-Modelle, DBeaver
 - Außerdem: Zabbix, Grundlagen in Ansible und Docker
 
